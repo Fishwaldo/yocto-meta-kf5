@@ -7,7 +7,7 @@
 LICENSE = "LGPL-2.1"
 PR = "r0"
 
-SRC_URI:append:visionfive2 = " \
+SRC_URI:append:jh7110 = " \
     file://0001-Use-VisionFive2-specific-MESA-Fork.patch \
 "
 

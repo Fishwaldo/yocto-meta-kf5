@@ -93,4 +93,5 @@ RDEPENDS:${PN} = " \
     kjs \
     kjsembed \
     kdelibs4support \
+    khtml \
 "
